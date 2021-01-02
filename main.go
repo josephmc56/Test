@@ -1,1 +1,7 @@
-Package Test
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Print("wassup")
+}
